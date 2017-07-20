@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
-	int arithmatic =1
-	cout << " " << endl;
+	int arithmatic= 1;
+	cout << " " << arithmatic << endl;
+	arithmatic+= 1;
+	cout << " " << arithmatic << endl;
 }
